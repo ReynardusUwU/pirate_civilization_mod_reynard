@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Corsair",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Pirates",
+		"upgradesTo": "Rifleman",
+		"uniques": ["No movement cost to pillage","[0] Movement point cost to disembark"],
+
+		"movement": 2,
+		"strength": 24,
+		"cost": 130,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+
+
+
+
+	}
+]

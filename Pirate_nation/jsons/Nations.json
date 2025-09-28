@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Pirates",
+		"leaderName": "Captain Blackbeard",
+		"adjective": ["Piratian"],
+		"startBias": ["Jungle", "Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Formidable Captain Edward Teach, known to the world as Blackbeard, your fearsome name still sends shivers through the bones of sailors and kings alike. In an age ruled by tradition and hierarchy, you carved your dominion through ruthless charisma and absolute command, earning the loyalty of men who followed you into fire and storm. Beneath your black flag sailed predators driven by blood, gold, and vengeanc, yet in their lust for plunder, they forged the first true democracy: crews of every race, creed, and origin, bound by shared peril and the promise of fortune. While monarchs clung to bloodlines and crowns, your ships became floating republics, where rank was earned, not inherited. Your corsairs unleashed terror on the Caribbean, burning ships, executing captains, and bringing empires to their knees through calculated cruelty. And in the chaos, you gave rise to pirate haven, egalitarian enclaves like Port Royal, ruled by vote, sustained by loot, and defended with unrelenting resolve.",
+		"startIntroPart2": "Dread Captain Blackbeard, the seas still whisper your name, will you rise again to command both terror and freedom? Will you again rally your ruthless crew, not as subjects, but as equals, and raise the black flag against a world of kings? Can your floating empire of rogues become a force that defies empires and builds a realm of liberty and gold? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "You're weak and you have a lot of treasures... so I'd advise you to jump overboard now!",
+		"attacked": "You know, I wanted to attack you next turn. HAHAHA!",
+		"defeated": "I lived like a true free man, I plundered, I drank whatever I wanted, whenever I wanted, all seven seas were mine!",
+		"introduction": "You stand in front of greatest captain in history, of Edward Teach, a king of the seas and oceans. Are you coming on business?",
+		
+		"neutralHello": "Arr ahoy!",
+		"neutralLetsHearIt": ["Arrr yes?","Speak."],
+		"neutralNo": ["Argh! No.","Argh! Do you have a bone in your brain?."],
+		"neutralYes": ["Arrrr yes!","Yo-ho-ho!"],
+		"hateHello": "Arrrrr! Don't waste my time!",
+		"hateLetsHearIt": "What's your offer landlubber?",
+		"hateNo": ["Shut up, landlubber!","HAHAHA... No!"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
+		
+		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty, do you wanna some rum?",
+		"tradeRequest": "I've got an verry good offer and we can discuss this over rum",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [1, 1, 1],
+		"uniqueName": "Wolfs of sea",
+		"uniques": ["[+3] Movement <for [{Military} {Embarked}] units>",
+"Earn [25]% of killed [Military] unit's [Strength] as [Gold]",
+"Enables embarkation for land units"],
+		"cities": ["Port Royal","Tortuga", "Barataria Bay", "Matanzas", "Saint Thomas", "Virgin Gorda",  "Fort-Dauphin", "Saint Augustin", "Havana", "Torento", "Pirate Bay", ]
+	},
+]
